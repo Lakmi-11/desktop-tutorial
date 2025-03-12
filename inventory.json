@@ -1,0 +1,38 @@
+{
+    "inventory": [
+      {
+        "item_id": "C001",
+        "item_name": "Cashew Nuts Raw",
+        "description": "Raw cashew nuts ready for processing.",
+        "quantity": 500,
+        "unit_price": 5.50,
+        "supplier": "Supplier A",
+        "reorder_level": 100,
+        "category": "Raw",
+        "date_added": "2025-03-12"
+      },
+      {
+        "item_id": "C002",
+        "item_name": "Cashew Nuts Roasted",
+        "description": "Roasted and salted cashew nuts.",
+        "quantity": 300,
+        "unit_price": 7.00,
+        "supplier": "Supplier B",
+        "reorder_level": 50,
+        "category": "Processed",
+        "date_added": "2025-03-10"
+      },
+      {
+        "item_id": "C003",
+        "item_name": "Cashew Nut Kernels",
+        "description": "Cashew nut kernels, perfect for packaging.",
+        "quantity": 1000,
+        "unit_price": 8.25,
+        "supplier": "Supplier C",
+        "reorder_level": 200,
+        "category": "Kernels",
+        "date_added": "2025-03-05"
+      }
+    ]
+  }
+  
